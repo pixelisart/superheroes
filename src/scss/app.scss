@@ -2,10 +2,13 @@ $black: #000;
 $white: #fff;
 
 body {
-    background-color: $black;
-    color: $white;
+    background-color: $white;
+    color: $black;
     font-size: 10px;
 }
 h1:hover {
     transition: color 1s ease;
+}
+#canvas {
+    border: 1px solid $black;
 }

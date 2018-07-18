@@ -1,13 +1,8 @@
 global.jQuery = require('jquery');
 bootstrap = require('bootstrap');
+fabricJS = require('fabric');
 mustache = require('mustache');
 
 jQuery(document).ready(function($){
-    var jqxhr = $.getJSON('data.json', function(){
-
-    }).done(function(data){
-        var template = $('#template').html();
-        var showTemplate = mustache.render(template, data);
-        $('#gallery').html(showTemplate);
-    });
+    var canvas = new fabric.Canvas('canvas');
 });
