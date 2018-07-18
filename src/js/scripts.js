@@ -3,6 +3,9 @@ bootstrap = require('bootstrap');
 fabricJS = require('fabric');
 mustache = require('mustache');
 
-jQuery(document).ready(function($){
+;(function($){
     var canvas = new fabric.Canvas('canvas');
-});
+
+    
+})(jQuery);
+    
