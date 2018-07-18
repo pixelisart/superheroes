@@ -41,5 +41,8 @@
     "jquery": "^3.2.1",
     "merge-stream": "^1.0.1",
     "mustache": "^2.3.0"
+  },
+  "dependencies": {
+    "fabric": "^2.3.3"
   }
 }
