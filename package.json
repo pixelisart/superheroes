@@ -1,27 +1,24 @@
 {
-  "name": "workflow",
+  "name": "Superheroes",
   "version": "1.0.0",
-  "description": "My Web Workflow with NPM, SCSS, Gulp and More",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixelisart/workflow.git"
+    "url": "git+https://github.com/pixelisart/superheroes.git"
   },
   "keywords": [
-    "SCSS",
-    "NPM",
-    "Git",
-    "Gulp"
+    ""
   ],
   "author": "Santino Valenzuela",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pixelisart/workflow/issues"
+    "url": "https://github.com/pixelisart/superheroes/issues"
   },
-  "homepage": "https://github.com/pixelisart/workflow#readme",
+  "homepage": "https://github.com/pixelisart/superheroes#readme",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.18.13",
