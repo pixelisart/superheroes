@@ -1,5 +1,5 @@
 {
-  "name": "Superheroes",
+  "name": "superheroes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -36,6 +36,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.1",
     "jquery": "^3.2.1",
+    "jquery-ui": "^1.12.1",
     "merge-stream": "^1.0.1",
     "mustache": "^2.3.0"
   },
